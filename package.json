@@ -1,0 +1,32 @@
+{
+  "name": "z-track",
+  "version": "1.0.0",
+  "description": "Waveshare GSM/GPRS/GNSS SIM868 implementation on RPi Zero",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoyt/z-track.git"
+  },
+  "keywords": [
+    "GSM",
+    "GPRS",
+    "GNS",
+    "SIM868",
+    "Waveshar",
+    "Raspberry",
+    "Pi",
+    "Zero",
+    "Pi",
+    "Pi",
+    "Zero"
+  ],
+  "author": "Steven Hoyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoyt/z-track/issues"
+  },
+  "homepage": "https://github.com/shoyt/z-track#readme"
+}
